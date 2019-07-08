@@ -1,0 +1,61 @@
+[33mcommit 1ef389ece949303c9598f8e635b0bf8d218a5520[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KaMo <karam.m.kashef@gmail.com>
+Date:   Mon Jul 8 01:22:02 2019 +0200
+
+    Last Version
+
+[33mcommit a257590bda3cabbcf4af6202d20b9824fe445652[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: KaMo <karam.m.kashef@gmail.com>
+Date:   Mon Jul 8 00:04:27 2019 +0200
+
+    Revert "Changes the name of the band 1"
+    
+    This reverts commit 1182f2b1d6cb2ed14767a25bcbb108f7476fbae6.
+
+[33mcommit 1182f2b1d6cb2ed14767a25bcbb108f7476fbae6[m
+Author: KaMo <karam.m.kashef@gmail.com>
+Date:   Mon Jul 8 00:03:11 2019 +0200
+
+    Changes the name of the band 1
+
+[33mcommit 8c3580d5c58fe0e2031979b26e9f3db1ae7acb86[m
+Author: KaMo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 23:53:54 2019 +0200
+
+    Changes the name of the band
+
+[33mcommit ce81c244b9b10b49957650585d0b18c041b10355[m
+Author: KaMo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 23:49:35 2019 +0200
+
+    First commit!
+
+[33mcommit 760081b8f779224513f67917ca0832f4adcd870f[m
+Author: `Karam-Mo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 17:28:46 2019 +0200
+
+    Change name band
+
+[33mcommit 12d72187233bcbc097aaa0a626605322e41c182b[m
+Author: `Karam-Mo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 17:22:42 2019 +0200
+
+    Change The Name of the Band
+
+[33mcommit 56fa1f6f5447d6007c71efc5c0e07892b70da4f8[m
+Author: `Karam-Mo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 17:12:23 2019 +0200
+
+    Change the name of the band
+
+[33mcommit 6e9a1769cee5640164265fdba4bdef1ffa371372[m
+Author: `Karam-Mo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 17:10:46 2019 +0200
+
+    Second commit!
+
+[33mcommit ec6209443026bdc452769c6aaa41a20885402ebd[m
+Author: `Karam-Mo <karam.m.kashef@gmail.com>
+Date:   Sun Jul 7 16:43:42 2019 +0200
+
+    First commit!
